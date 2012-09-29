@@ -1,0 +1,10 @@
+Package: ChangeAnomalyDetection
+Type: Package
+Title: Change Anomaly Detection
+Version: 0.0.1
+Date: 2012-09-29
+Author: Yohei Sato
+Maintainer: Yohei Sato <yokkuns@tkul.jp>
+Description: chage anomaly detection for R
+License: BSD
+Depends: TTR
