@@ -1,0 +1,4 @@
+*.Rcheck
+*.pdf
+*.tar.gz
+*~
