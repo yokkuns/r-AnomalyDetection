@@ -5,6 +5,6 @@ Version: 0.0.3
 Date: 2012-09-29
 Author: Yohei Sato
 Maintainer: Yohei Sato <yokkuns@tkul.jp>
-Description: change anomaly detection for R
+Description: It is a R package for the detection of the point of a sharp turn of the behavior of the time series.
 License: BSD
 Depends: TTR

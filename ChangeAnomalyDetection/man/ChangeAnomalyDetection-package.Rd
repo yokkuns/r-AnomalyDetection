@@ -6,7 +6,7 @@
 ChangeAnomalyDetection Package
 }
 \description{
-ChangeAnomalyDetection Package
+It is a R package for the detection of the point of a sharp turn of the behavior of the time series.
 }
 \details{
 \tabular{ll}{

@@ -5,7 +5,7 @@
 Anomaly Detection of change
 }
 \description{
-Anomaly Detection of change.
+Calculate the score of the degree of behavior change in time series.
 }
 \usage{
 changeAnomalyDetection(x, term = 30, smooth.n = 7, order = c(1, 0, 0), ...)
