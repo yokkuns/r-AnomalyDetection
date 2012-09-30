@@ -22,27 +22,15 @@ outlierScore(train, x, ...)
     ...
 }
 }
-\details{
-%%  ~~ If necessary, more details than the description above ~~
-}
 \value{
   score of outlier
-}
-\references{
-%% ~put references to the literature/web site here ~
 }
 \author{
   Yohei Sato
 }
-\note{
-%%  ~~further notes~~
-}
 
 %% ~Make other sections like Warning with \section{Warning }{....} ~
 
-\seealso{
-%% ~~objects to See Also as \code{\link{help}}, ~~~
-}
 \examples{
 ##---- Should be DIRECTLY executable !! ----
 ##-- ==>  Define data, use random,

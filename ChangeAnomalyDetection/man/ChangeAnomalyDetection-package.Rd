@@ -20,10 +20,10 @@ License: \tab What license is it under?\cr
 \author{
 Maintainer: Yohei Sato <yokkuns@tkul.jp>
 }
-\references{
-}
 \keyword{ package }
-\seealso{
-}
 \examples{
+data(ttrc)
+x <- ttrc[1:100,"Close"]
+
+change.score <- changeAnomalyDetection(x, term=10)
 }
