@@ -1,7 +1,7 @@
 Package: ChangeAnomalyDetection
 Type: Package
 Title: Change Anomaly Detection
-Version: 0.0.3
+Version: 0.0.4
 Date: 2012-09-29
 Author: Yohei Sato
 Maintainer: Yohei Sato <yokkuns@tkul.jp>
